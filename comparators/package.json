@@ -1,0 +1,23 @@
+{
+  "name": "comparators",
+  "version": "1.0.0",
+  "description": "A brief example of how sort complex arrays in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvieira91/blogposts.git"
+  },
+  "keywords": [
+    "comparators"
+  ],
+  "author": "Pedro Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pvieira91/blogposts/issues"
+  },
+  "homepage": "https://github.com/pvieira91/blogposts#readme"
+}
